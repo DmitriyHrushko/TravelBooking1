@@ -1,0 +1,71 @@
+{
+	"products": [
+		{
+			"id": 5,
+			"url": "#",
+			"title": "Hotel Estheréa",
+			"text": "Night lamp",
+			"labels": "Amsterdam, Netherlands",
+			"image": "05.jpg",
+			"price": "250$",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 6,
+			"url": "#",
+			"title": "A-STAY Antwerp",
+			"text": "Antwerp, Belgium",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				},
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.jpg",
+			"price": "150$",
+			"priceOld": "250$",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Melia Luxembourg",
+			"text": "Luxembourg, Luxembourg",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				}
+			],
+			"image": "07.jpg",
+			"price": "150$",
+			"priceOld": "300$",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Empire Elysees",
+			"text": "Paris, France",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "08.jpg",
+			"price": "400$",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	]
+}
